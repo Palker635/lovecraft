@@ -1,0 +1,38 @@
+body {
+    background-color: black; 
+    color: white; 
+    font-size: 12px; 
+   
+}
+
+
+main {
+    margin: auto; 
+    width: 60%;
+    font-family: 'Libre Franklin', sans-serif;
+    font-size: 1.2em; 
+}
+blockquote > footer{    
+    text-align: right; 
+}
+
+h1 
+{
+    text-align: center;
+    color: crimson; 
+    font-size: 2.4em; 
+}
+h2 {    
+    text-align: center;
+    color: crimson; 
+    font-size: 1.6em; 
+}
+
+.chapter {
+    background-color: crimson; 
+}
+.unreadable {
+    background-image: url('https://wallpaperplay.com/walls/full/7/0/6/17965.jpg') 
+    background-position: center; 
+    background-size: cover;
+}
